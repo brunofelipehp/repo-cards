@@ -11,7 +11,7 @@ Testando comandos para aprender mais sobre o git e GitHub. [meu Github](https://
 
 | aulas                                     | Resumos    |
 | ----------------------------------------- | ---------- |
-| Gravando alteraçoes no repositórios Local | [Resumos]() |
+| Gravando alteraçoes no repositórios Local | [Resumo]() |
 
 ```
 git init
