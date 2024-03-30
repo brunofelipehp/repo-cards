@@ -9,10 +9,10 @@ Testando comandos para aprender mais sobre o git e GitHub. [meu Github](https://
 
 ## Resumo das Aulas
 
-| aulas   | Resumos    |
-| ------- | ---------- |
-| aula 01 | [Resumo]() |
-| aula 02 | [Resumo]() |
+| aulas    | Resumos    |
+| -------- | ---------- |
+| aula 001 | [Resumo]() |
+| aula 002 | [Resumo]() |
 
 ```
 git init
