@@ -9,7 +9,8 @@ Testando comandos para aprender mais sobre o git e GitHub. [meu Github](https://
 
 ## Resumo das Aulas
 
-| aulas    | Resumos    |
+<<<<<<< HEAD
+| aulas | Resumos |
 | -------- | ---------- |
 | aula 001 | [Resumo]() |
 | aula 002 | [Resumo]() |
